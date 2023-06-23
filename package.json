@@ -1,0 +1,35 @@
+{
+  "name": "leaftlet-react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@elfalem/leaflet-curve": "0.9.1",
+    "@react-leaflet/core": "1.1.1",
+    "@types/leaflet": "1.7.0",
+    "@types/react-leaflet": "2.8.1",
+    "leaflet": "1.7.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-leaflet": "3.1.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.0",
+    "@types/react-dom": "17.0.0",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
